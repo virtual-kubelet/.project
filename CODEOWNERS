@@ -1,0 +1,3 @@
+# CODEOWNERS for .project metadata repository
+# Changes to project metadata require maintainer review.
+* @rbitia @cpuguy83 @pires @corrieb @sargun 
