@@ -9,8 +9,7 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
-          - rbitia
-          - cpuguy83
           - pires
           - corrieb
           - sargun
+          - helayoty
