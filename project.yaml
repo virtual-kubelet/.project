@@ -1,7 +1,6 @@
 # .project metadata for Virtual Kubelet
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
 
-# TODO: Set slack_channels
 # TODO: Add package_managers if distributed via registries
 
 schema_version: "1.0.0"
@@ -9,11 +8,10 @@ slug: "virtual-kubelet"
 name: "Virtual Kubelet"
 description: "Virtual Kubelet is an open source Kubernetes kubelet implementation"
 type: "project"
-project_lead: "rbitia" # TODO: AUTO-DETECTED — please verify
-# TODO: Set CNCF Slack channel(s)
-# slack_channels:
-#   - name: "#virtual-kubelet"
-#     primary: true
+project_lead: "pires"
+slack_channels:
+  - name: "#virtual-kubelet"
+    primary: false
 
 maturity_log:
   - phase: "sandbox"
