@@ -25,7 +25,7 @@ repositories:
 
 website: "https://virtual-kubelet.io/"
 
-artwork: "https://landscape.cncf.io/logos/virtual-kubelet.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/virtualkubelet"
 
 adopters:
   path: "https://github.com/virtual-kubelet/virtual-kubelet/blob/main/ADOPTERS.md"
